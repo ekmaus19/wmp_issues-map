@@ -1,0 +1,51 @@
+Name,state,Airings,Healthcare,Jobs,Taxes,Imm.
+Alaska,AK,654,78,0,0,0
+Arizona,AZ,16188,53,7,35,21
+Arkansas,AR,653,79,50,58,1
+California,CA,4593,60,19,20,9
+Colorado,CO,565,56,0,0,0
+Connecticut,CT,885,91,65,0,0
+Florida,FL,25612,50,6,36,9
+Georgia,GA,553,100,0,0,0
+Hawaii,HI,995,58,0,27,18
+Illinois,IL,1313,62,22,0,0
+Indiana,IN,16459,19,30,3,43
+Iowa,IA,2139,43,30,25,0
+Kansas,KS,6639,34,0,30,22
+Kentucky,KY,3523,8,0,27,28
+Louisiana,LA,6,100,0,0,0
+Maine,ME,3287,94,0,41,0
+Maryland,MD,352,0,100,0,0
+Massachusetts,MA,4890,23,8,41,18
+Michigan,MI,6162,17,2,3,35
+Minnesota,MN,1503,72,13,7,16
+Missouri,MO,23870,34,2,9,1
+Montana,MT,17614,42,0,12,33
+Nebraska,NE,704,86,0,31,0
+Nevada,NV,13708,65,10,10,3
+New Hampshire,NH,1340,64,0,0,29
+New Jersey,NJ,3680,25,3,63,3
+New Mexico,NM,1068,0,93,0,0
+New York,NY,13607,21,10,47,24
+North Carolina,NC,1677,35,17,44,0
+North Dakota,ND,12481,16,0,0,31
+Ohio,OH,7528,42,9,25,3
+Oklahoma,OK,978,5,0,33,14
+Oregon,OR,147,0,0,0,46
+Pennsylvania,PA,3973,53,5,23,20
+Rhode Island,RI,61,0,0,0,0
+Tennessee,TN,14970,11,39,41,2
+Texas,TX,3998,44,0,19,9
+Utah,UT,762,0,0,0,0
+Vermont,VT,13,0,0,0,0
+Virginia,VA,4289,44,65,3,0
+Washington,WA,4004,48,0,34,8
+West Virginia,WV,13292,43,10,9,6
+Wisconsin,WI,10279,15,23,6,9
+Idaho,ID,0,-1,-1,-1,-1
+Wyoming,WY,0,-1,-1,-1,-1
+South Dakota,SD,0,-1,-1,-1,-1
+Mississippi,MS,0,-1,-1,-1,-1
+Alabama,AL,0,-1,-1,-1,-1
+South Carolina,SC,0,-1,-1,-1,-1
+Delaware,DE,0,-1,-1,-1,-1
